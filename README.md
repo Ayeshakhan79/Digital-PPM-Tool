@@ -21,6 +21,8 @@ The Digital PPM app enables teams to track performance, manage processes, and dr
 
 5. Improved Visibility: Provides stakeholders with actionable insights and transparency across performance and process management activities.
 
+6. Issue Log Visibility (In app): Displays previously added issues along with their instances and history.
+
 ---
 
 **2. Tech Stack**
