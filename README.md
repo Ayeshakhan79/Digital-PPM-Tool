@@ -3,7 +3,7 @@ This repository presents a digital Performance, Process, and Improvement (PPM) a
 
 **Note: ** All screenshots are blurred to maintain confidentiality.
 
---
+---
 
 **1. Application Overview**
 
@@ -21,7 +21,7 @@ The Digital PPM app enables teams to track performance, manage processes, and dr
 
 5. Improved Visibility: Provides stakeholders with actionable insights and transparency across performance and process management activities.
 
---
+---
 
 **2. Tech Stack**
 
@@ -33,7 +33,7 @@ Automation: Power Automate (email notifications, reminders, workflow triggers)
 
 2. Power BI Dashboards
 
---
+---
 
 **3. Impact**
 
@@ -45,7 +45,7 @@ Enhanced accountability through role-based access and visibility
 
 Supported quicker decision-making and continuous improvement initiatives
 
---
+---
 
 **Confidentiality Note**
 
